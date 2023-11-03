@@ -1,0 +1,1 @@
+SECRET_KEY = 'django-insecure-occr5-$ao0p(1a6ee0x^^*%((^p-#8@vpg&ak7r9h6zs6esbb)'
